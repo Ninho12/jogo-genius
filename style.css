@@ -27,27 +27,31 @@ body{
     grid-area: azul;
     background-color: blue;
     border-bottom-right-radius: 100%;
+    opacity:0.5;
 }
 
 .red{
     grid-area: vermelho;
     background-color: red;
     border-top-right-radius: 100%;
+    opacity:0.5;
 }
 
 .yellow{
     grid-area: amarelo;
     background-color: yellow;
     border-bottom-left-radius: 100%;
+    opacity:0.5;
 }
 
 .green{
     grid-area: verde;
     background-color: green;
     border-top-left-radius: 100%;
+    opacity:0.5;
 }
 
 .selected{
-    opacity:0.8;
+    opacity: 1;
 }
 
